@@ -5,7 +5,7 @@ tiredness chart | key: x = makes me tired  o = helps me recover  - = no effect
 | activity | mentally | emotionally | physically | notes |
 | --- | --- | --- | --- | --- |
 | programming | x | x | - | |
-| karate | | - | x | |
+| karate | - | - | x | |
 | journaling | x | o | - | |
 | obsidian | x | - | - | |
 | running | o | o | x | |
